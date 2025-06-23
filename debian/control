@@ -49,6 +49,7 @@ Build-Depends:
  libopenjp2-7-dev,
  liblcms2-dev,
  libdeepin-service-framework-dev
+ libheif-dev
 Standards-Version: 3.9.8
 Homepage: http://www.deepin.org
 
@@ -84,6 +85,7 @@ Depends:
  tpm2-abrmd,
  libtss2-tcti-pcap0,
  libtss2-tcti-tabrmd0,
+ libheif1
  libusec-recoverykey | hello
 Replaces: dde-file-manager-oem, dde-desktop (<< 6.0.1),
  dde-file-manager-preview,
